@@ -1,0 +1,3 @@
+### Encontra nó em árvore binária ###
+
+Escreva uma função recursiva find(root, value) que recebe (i) a raiz root de uma árvore binária qualquer (não necessariamente BST) cujos nós armazenam números inteiros distintos, e (ii) um valor inteiro value. A função encontra o nó da árvore cujo valor é igual a value e retorna esse nó. Se não existir, retorna null. Observe que a função retorna o nó em si (objeto), não só seu valor.

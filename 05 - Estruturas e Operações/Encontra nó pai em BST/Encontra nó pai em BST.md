@@ -1,0 +1,3 @@
+### Encontra nó pai em BST ###
+
+Escreva uma função recursiva bstFindParent(root, value) que recebe (i) root, a raiz de uma árvore binária de busca (BST) cujos nós armazenam números inteiros distintos, e (ii) value, um valor a ser procurado. A função encontra o nó cujo valor é igual a value, se existir. Caso exista, retorna o valor do nó pai desse nó; senão retorna undefined. Se o nó existir mas o pai não existir, também retorna undefined. O parâmetro root nunca será null.

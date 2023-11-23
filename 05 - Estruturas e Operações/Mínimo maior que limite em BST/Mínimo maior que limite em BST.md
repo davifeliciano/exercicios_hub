@@ -1,0 +1,3 @@
+### Mínimo maior que limite em BST ###
+
+Escreva uma função recursiva bstMinGreaterThan(root, cutoff) que recebe (i) root, a raiz de uma árvore binária de busca (BST) cujos nós armazenam números inteiros não-negativos, e (ii) cutoff, um valor de referência. A função encontra o nó de menor valor possível entre os nós com valor estritamente superior a cutoff, se existirem. Caso exista, retorna o valor do nó; senão retorna -1. O parâmetro root nunca será null.
